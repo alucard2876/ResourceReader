@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzADltPh6XJTaYiTgO5uROrFs7teQYVBg3xfkOhrM9hY5N9fMKPXysCaMBg3ibDGwuqE4Ti6R8W8KRn2PWYpiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlad_\\source\\repos\\ResourceReader\\ResourceReader.Buisness\\ResourceReader.Buisness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlad_\\.nuget\\packages\\devexpressmvvm\\20.1.6\\devexpressmvvm.20.1.6.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DevExpressMvvm 20.1.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "DevExpressMvvm",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

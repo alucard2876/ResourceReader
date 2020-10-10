@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpressMvvm" Version="20.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExpress.Mvvm.v20.1.ViewModel">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\DevExpress 20.1\Components\Bin\Framework\DevExpress.Mvvm.v20.1.ViewModel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
